@@ -1,3 +1,3 @@
-Tegengekomen in [[Arcanthel]], vergis je niet aan haar verig en klein gestalte. Brenda heeft zich al vaak genoeg bewezen. In de [[Appolonië Arc]] is Brenda vertrokken op een academische reis richting [[The Citadel]]. Niet zomaar om te leren over frivoleuze "wetenschap", "geschiedenis" of "journalistiek", maar kernharde, dodelijke magie. Sinds haar vertrek heeft ze niets meer van zich laten horen, en wie weet wanneer ze 
+Tegengekomen in [[Arcanthel]], vergis je niet aan haar verig en klein gestalte. Brenda heeft zich al vaak genoeg bewezen. In de [[Appolonië Arc]] is Brenda vertrokken op een academische reis richting [[The Citadel]]. Niet zomaar om te leren over frivoleuze "wetenschap", "geschiedenis" of "journalistiek", maar kernharde, dodelijke magie. Sinds haar vertrek heeft ze niets meer van zich laten horen, en wie weet wanneer ze terug haar snavel terug laat zien.
 
 ![[Brenda DM]]
