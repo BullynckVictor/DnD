@@ -1,1 +1,1 @@
-Een oude bendegenoot van [[Aquilanius]], 
+Een oude bendegenoot van [[Aquilanius]], lang verdwenen. 
