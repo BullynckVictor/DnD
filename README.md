@@ -25,4 +25,5 @@ Hier is het opgesplist in kleinere stapjes, de eerste 3 kunnen tegelijkertijd ge
 git clone https://github.com/BullynckVictor/DnD.git
 ```
 - Nu heb je de vault te pakken! Open Obsidian en klik op "Open folder as vault", kies nu de folder die Git net voor je heeft aangemaakt (genaamd DnD) ![](Assets/open-vault.png)
-- We zijn er bijna! De laatste stap is om een plugin toe te voegen die automatisch de vault synchroniseert: Ga naar `Settings > Community plugins` en klik op "Turn on community plugins". Klik op browse plugins, zoek de git plugin en download en enable deze. ![](Assets/settings.png) ![](Assets/turn-on-plugins.png) ![](Assets/browse.png) 
+- We zijn er bijna! De laatste stap is om een plugin toe te voegen die automatisch de vault synchroniseert: Ga naar `Settings > Community plugins` en klik op "Turn on community plugins". Klik op browse plugins, zoek de git plugin en download en enable deze. ![](Assets/settings.png) ![](Assets/turn-on-plugins.png) ![](Assets/browse.png) ![](Assets/git.png) Het enige dat nog moet gebeuren is het instellen na hoeveel minuten gesynchroniseerd wordt: ![](Assets/git-settings.png)
+Klaar is kees! Nu worden alle notities over onze D&D campaign met elkaar gedeeld, en kan iedereen aan dezelfde informatie en maps enzo!
