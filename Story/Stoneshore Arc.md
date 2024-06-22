@@ -1,1 +1,1 @@
-In deze arc neemt de bende het op tegen corruptie in de havenstad [[Stoneshore]]. [[Aquilanius]] krijgt te horen dat
+In deze arc neemt de bende het op tegen corruptie in de havenstad [[Stoneshore]]. [[Aquilanius]] krijgt te horen dat [[Kolibrie]] in de gevangen is geraakt na een assassionation contract gone south. Ook voor [[Louis zijn character, ik ben de naam kwijt]] is dit een persoonlijke zaak. De [[Kerk der Gulden Zon]] is juist de corrupte kerk die op jonge leeftijd zijn huisdorp hebben afgebrand, in de naam van hun "vergevende" religie.
