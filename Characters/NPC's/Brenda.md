@@ -1,6 +1,4 @@
 
 Tegengekomen in [[Arcanthel]]
 
-TEST
-
-![[DM Notes - Brenda]]
+![[Brenda DM]]
