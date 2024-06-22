@@ -1,0 +1,1 @@
+In deze arc neemt de bende het op tegen corruptie in de havenstad [[Stoneshore]]. 
