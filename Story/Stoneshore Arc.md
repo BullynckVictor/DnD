@@ -1,1 +1,1 @@
-In deze arc neemt de bende het op tegen corruptie in de havenstad [[Stoneshore]]. 
+In deze arc neemt de bende het op tegen corruptie in de havenstad [[Stoneshore]]. [[Aquilanius]] krijgt te horen dat
