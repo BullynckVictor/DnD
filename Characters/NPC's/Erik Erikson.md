@@ -1,0 +1,1 @@
+Havenmeester van [[Stoneshore]], zoon Kerim onlangs aan drugs verloren, dochter [[Erika Erikson]] kort daarna om wraak te nemen.
