@@ -1,0 +1,1 @@
+Het woelige water dat [[Stoneshore]] en [[Amazonder]] met elkaar verbindt. Ervaren zeevaarders vermijden deze deze waters als de pest. Oude matrozen vertellen 
