@@ -1,0 +1,1 @@
+The mad king, beschermer van [[Zolthraak]]. 

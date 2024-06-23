@@ -1,0 +1,1 @@
+Het tweede artefact dat de bende is tegengekomen. 
