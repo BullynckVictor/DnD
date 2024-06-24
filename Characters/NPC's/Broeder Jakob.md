@@ -1,0 +1,1 @@
+De priester die de party is tegengekomen in het begin van de [[Stoneshore Arc]]
